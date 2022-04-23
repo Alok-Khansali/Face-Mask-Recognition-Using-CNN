@@ -155,5 +155,5 @@ plt.plot(np.arange(0, N), H.history["val_accuracy"], label="val_acc")
 plt.title("Training Loss and Accuracy")
 plt.xlabel("Epoch #")
 plt.ylabel("Loss/Accuracy")
-plt.legend(loc="lower left")
+plt.legend(loc="center right")
 plt.savefig("plot.png")  										# saving the image using matplotlib
