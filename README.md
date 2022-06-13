@@ -10,19 +10,6 @@
 6. matplotlib == 3.2.1
 7. scipy == 1.4.1
 
-### Project Structure:
-
-1. **Data Acquisition:**
-
-2. **Data Cleaning and Pre-processing:**
-
-### Summary:
-
-#### Pros and Cons of
-
-**Pros:**
-
-**Cons:**
 
 ### License:
 
